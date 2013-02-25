@@ -125,6 +125,7 @@ Sphinx 1.2 の追加機能
 Sphinx 1.2 の修正機能
 ======================
 
+* `make latexpdfja` 日本語PDF出力の更新版を取り込み
 * `make text` で日本語だと文字幅がガタガタになる問題
 * intersphinxのマッピングが期待順にならない問題(py33)
 * etc. etc...
